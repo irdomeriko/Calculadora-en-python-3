@@ -15,6 +15,7 @@ time.sleep(3)
 a = int(input("Argumento a "))
 b = int(input("Argumento b "))
 c = a * b
+print("El resultado es:")
 print(c)
 print("By Irdomeriko")
 time.sleep(3)

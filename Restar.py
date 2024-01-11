@@ -19,6 +19,8 @@ a = int(input("Argumento a "))
 b = int(input("Argumento b "))
 # variable = variable - variable
 c = (a - b)
+#print("El resultado es:")
+print("El resultado es:")
 #print(variable)
 print(c)
 #print("Authors")
