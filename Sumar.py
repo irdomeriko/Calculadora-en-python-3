@@ -6,8 +6,8 @@ Y el Argumento B es el segundo argumento
 Ejemplo
 Argumento a 5
 Argumento b 2
-Ejemplo Argumento a - Argumento b       5-2
-Respuesta = 3
+Ejemplo Argumento a + Argumento b       5+2
+Respuesta = 7
 """
 print(g)
 time.sleep(3)
