@@ -4,8 +4,8 @@ Y se ejecuta de esta forma
 
 Con el cmd cuando estas en la carpeta
 
-py Sumar.py
+py Sumar.py o Restar.py o Dividir.py o Multiplicar.py
 
 Y si esto no funciona hazlo de esta forma
 
-python3 Sumar.py
+python3 Sumar.py o Restar.py o Dividir.py o Multiplicar.py
