@@ -4,8 +4,12 @@ Y se ejecuta de esta forma
 
 Con el cmd cuando estas en la carpeta
 
-py Sumar.py o Restar.py o Dividir.py o Multiplicar.py
+py inicio.py
 
 Y si esto no funciona hazlo de esta forma
 
-python3 Sumar.py o Restar.py o Dividir.py o Multiplicar.py
+python3 inicio.py
+
+Tu solo tienes que escribir NUMEROS!!
+
+Por que si no te sale un error
